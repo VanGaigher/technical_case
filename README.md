@@ -128,7 +128,13 @@ Avaliação de Outros Modelos: Explorar a eficácia de diferentes modelos de cla
 **DASHBOARD**
 Foi elaborado um dashboard com algumas métricas selecionadas para entender o perfil das empresas ao longo dos anos.
 
-O documento pode ser encontrado no repositório. Entretanto abaixo segue o vídeo onde podem visualiza-lo
+O documento não foi disponibilizado no repositório devido exeder o limite de tamanho para upload de arquivo. Entretanto abaixo segue o vídeo onde podem visualiza-lo.
+
+## Vídeo de Demonstração
+
+Assista ao vídeo de demonstração:
+
+[![Assista ao vídeo de demonstração](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://github.com/VanGaigher/technical_case/raw/main/dashboard.mp4)
 
 **Observação**: Para detalhes específicos e gráficos, consulte o documento completo ou os anexos fornecidos com este README.  # technical_case
 # technical_case
