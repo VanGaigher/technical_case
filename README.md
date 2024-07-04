@@ -8,7 +8,7 @@ Para rodar o notebok siga os passos abaixo:
 1. Faça o download do repositório Github na sua máquina.
 2. Certifique-se de ter a versão do Python 3.12 instalada.
 3. Todas as bibliotecas necessárias então descritas no arquivo `pyproject.toml`.
-4. Lembre-se de fazer o download do arquivo [aqui](https://click.api.drift.com/click/e21b0ef0-2218-4578-b02a-6082454a8f2d?u=http%3A%2F%2Fdownload.companieshouse.gov.uk%2Fen_output.html&h=f0fb4708ebae07eacd660f229c0d02f5) e salvá-lo dentro da pasta `data` deste repositório. 
+4. Lembre-se de fazer o download do arquivo csv [aqui](https://click.api.drift.com/click/e21b0ef0-2218-4578-b02a-6082454a8f2d?u=http%3A%2F%2Fdownload.companieshouse.gov.uk%2Fen_output.html&h=f0fb4708ebae07eacd660f229c0d02f5) e salvá-lo dentro da pasta `data` deste repositório. 
 5. IMPORTANTE: No notebook `analysis_Meivcore.ipynb` certifique-se de atualizar o caminho do arquivo csv e do nome do arquivo na primeira linha de comando. 
 
 ## Contexto do Projeto
