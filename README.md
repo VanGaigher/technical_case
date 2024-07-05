@@ -134,7 +134,7 @@ O documento não foi disponibilizado no repositório devido exeder o limite de t
 
 Assista ao vídeo de demonstração:
 
-[![Assista ao vídeo de demonstração](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://github.com/VanGaigher/technical_case/raw/main/dashboard.mp4)
+[![Assista ao vídeo de demonstração](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)]([https://github.com/VanGaigher/technical_case/raw/main/dashboard.mp4](https://github.com/VanGaigher/technical_case/blob/main/dashboard_final.mp4))
 
 **Observação**: Para detalhes específicos e gráficos, consulte o documento completo ou os anexos fornecidos com este README.
 
